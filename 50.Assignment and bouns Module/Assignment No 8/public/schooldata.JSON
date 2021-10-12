@@ -1,0 +1,101 @@
+[
+    {
+        "key": "001",
+        "img": "https://i.ibb.co/Lzdg75J/1.jpg",
+        "shoolName": "Hajigong Pilot High School",
+        "location": "Hajigong, Chandpur",
+        "totalStudent": 1500,
+        "eventStudent": 270,
+        "schoolNumber": "+8803568"
+    },
+    {
+        "key": "002",
+        "img": "https://i.ibb.co/Vpr1g9K/2.jpg",
+        "shoolName": "Hajigong Model College",
+        "location": "Hajigong, Chandpur",
+        "totalStudent": 1200,
+        "eventStudent": 150,
+        "schoolNumber": "+88035263"
+    },
+    {
+        "key": "003",
+        "img": "https://i.ibb.co/3Fkj77D/3.jpg",
+        "shoolName": "Hajigong Degree Collage",
+        "location": "Hajigong, Chandpur",
+        "totalStudent": 1500,
+        "eventStudent": 300,
+        "schoolNumber": "+8803562"
+    },
+    {
+        "key": "004",
+        "img": "https://i.ibb.co/2sp6Thy/4.jpg.jpg",
+        "shoolName": "Chandpur Women's College",
+        "location": "Chandpur",
+        "totalStudent": 3500,
+        "eventStudent": 250,
+        "schoolNumber": "+880315462"
+    },
+    {
+        "key": "005",
+        "img": "https://i.ibb.co/8Y7w9rb/5.jpg",
+        "shoolName": "Chandpur Government College",
+        "location": "Chandpur",
+        "totalStudent": 2500,
+        "eventStudent": 450,
+        "schoolNumber": "+88034638"
+    },
+    {
+        "key": "006",
+        "img": "https://i.ibb.co/Vpr1g9K/2.jpg",
+        "shoolName": "Hajigong Model College",
+        "location": "Hajigong, Chandpur",
+        "totalStudent": 1200,
+        "eventStudent": 150,
+        "schoolNumber": "+88031265"
+    },
+    {
+        "key": "007",
+        "img": "https://i.ibb.co/3Fkj77D/3.jpg",
+        "shoolName": "Hajigong Degree Collage",
+        "location": "Hajigong, Chandpur",
+        "totalStudent": 1500,
+        "eventStudent": 300,
+        "schoolNumber": "+8803568"
+    },
+    {
+        "key": "008",
+        "img": "https://i.ibb.co/8Y7w9rb/5.jpg",
+        "shoolName": "Chandpur Government College",
+        "location": "Chandpur",
+        "totalStudent": 2500,
+        "eventStudent": 450,
+        "schoolNumber": "+8803568"
+    },
+    {
+        "key": "009",
+        "img": "https://i.ibb.co/2sp6Thy/4.jpg.jpg",
+        "shoolName": "Chandpur Women's College",
+        "location": "Chandpur",
+        "totalStudent": 3500,
+        "eventStudent": 250,
+        "schoolNumber": "+8803568"
+    },
+    {
+        "key": "010",
+        "img": "https://i.ibb.co/2sp6Thy/4.jpg.jpg",
+        "shoolName": "Chandpur Women's College",
+        "location": "Chandpur",
+        "totalStudent": 3500,
+        "eventStudent": 250,
+        "schoolNumber": "+8803568"
+    },
+    {
+        "key": "011",
+        "img": "https://i.ibb.co/8Y7w9rb/5.jpg",
+        "shoolName": "Chandpur Government College",
+        "location": "Chandpur",
+        "totalStudent": 2500,
+        "eventStudent": 450,
+        "schoolNumber": "+8803568"
+    }
+]
